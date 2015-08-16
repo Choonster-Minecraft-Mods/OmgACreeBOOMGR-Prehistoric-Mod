@@ -1,0 +1,7 @@
+{
+    "parent": "block/pane_ne",
+    "textures": {
+        "edge": "preh:blocks/pyrite_enhanced_bars",
+        "pane": "preh:blocks/pyrite_enhanced_bars"
+    }
+}

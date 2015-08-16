@@ -1,0 +1,10 @@
+{
+    "parent": "block/grass",
+    "textures": {
+        "particle": "blocks/dirt",
+        "bottom": "preh:blocks/prehistoric_dirt",
+        "top": "preh:blocks/prehistoric_grass_top",
+        "side": "preh:blocks/prehistoric_grass_side",
+        "overlay": "preh:blocks/prehistoric_grass_side_overlay"
+    }
+}

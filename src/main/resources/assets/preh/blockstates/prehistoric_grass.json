@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "snowy=false": [
+            { "model": "preh:prehistoric_grass_normal" },
+            { "model": "preh:prehistoric_grass_normal", "y": 90 },
+            { "model": "preh:prehistoric_grass_normal", "y": 180 },
+            { "model": "preh:prehistoric_grass_normal", "y": 270 }
+        ],
+        "snowy=true":  { "model": "preh:prehistoric_grass_snowed" }
+    }
+}

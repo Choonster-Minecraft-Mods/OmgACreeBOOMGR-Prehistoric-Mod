@@ -1,0 +1,21 @@
+item.fang.name=Fang
+item.carbon.name=Carbon
+item.pyrite.name=Pyrite
+item.blueberry.name=Blueberry
+
+tile.limestone.name=Limestone
+tile.carbon_ore.name=Carbon Ore
+tile.pyrite_ore.name=Pyrite Ore
+tile.pyrite_enhanced_bars.name=Pyrite Enhanced Bars
+tile.carbon_block.name=Carbon Block
+tile.pyrite_block.name=Pyrite Block
+tile.blueberry_bush.name=Blueberry Bush
+tile.prehistoric_grass.name=Grass
+tile.prehistoric_dirt.name=Dirt
+
+itemGroup.PreHistoricBlocks=PreHistoric Blocks
+itemGroup.PreHistoricItems=PreHistoric Items
+itemGroup.PreHistoricFood=PreHistoricFood
+
+entity.Crab.name=Crab
+entity.Trilobite.name=Trilobite

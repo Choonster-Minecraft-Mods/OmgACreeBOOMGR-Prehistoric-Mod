@@ -1,0 +1,9 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "particle": "blocks/dirt",
+        "bottom": "preh:blocks/prehistoric_dirt",
+        "top": "preh:blocks/prehistoric_grass_top_snowed",
+        "side": "preh:blocks/prehistoric_grass_side_snowed"
+    }
+}

@@ -1,0 +1,16 @@
+[
+{
+  "modid": "OMGMOD",
+  "name": "OMGTHISISISAMODBYME",
+  "description": "OMG",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ME"],
+  "credits": "ME",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
