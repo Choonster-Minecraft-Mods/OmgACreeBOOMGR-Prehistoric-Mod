@@ -26,10 +26,7 @@ import com.omgacreeboomgr.prehistoric.items.CustomItem;
 
 public class CommonProxy
 {
-	public void registerRenders() {
-    }
-	
-	public void preInit(FMLPreInitializationEvent e) 
+	public void preInit(FMLPreInitializationEvent e)
 	{
 		
 	}

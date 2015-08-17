@@ -14,8 +14,7 @@ import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 
 public class ClientProxy extends CommonProxy 
-{	
-	@Override
+{
     public void registerRenders() {
         RenderingRegistry.registerEntityRenderingHandler(EntityCrab.class, new RenderCrab(new ModelCrab(), 0.4f));
         PreHistoricBlocks.registerRenders();
@@ -48,6 +47,7 @@ public class ClientProxy extends CommonProxy
 		Main.Pyrite_Enhanced_Bars.RegisterRenderer("pyrite_enhanced_bars");
 		
 		CustomFood.registerRenders();
+		registerRenders();
 		
 	}
 

@@ -1,5 +1,5 @@
 {
-    "parent": "preh:block/prehistoric_grass",
+    "parent": "preh:block/prehistoric_grass_normal",
     "display": {
         "thirdperson": {
             "rotation": [ 10, -45, 170 ],
